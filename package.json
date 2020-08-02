@@ -1,0 +1,32 @@
+{
+  "name": "genesys-for-foundryvtt",
+  "version": "0.1.0",
+  "description": "Genesys System for the Foundry VTT",
+  "main": "module/simple.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FilBot3/Genesys-for-FoundryVTT.git"
+  },
+  "keywords": [
+    "FoundryVTT",
+    "VTT",
+    "Foundry",
+    "Genesys"
+  ],
+  "author": "Phillip Dudley <Predatorian3@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FilBot3/Genesys-for-FoundryVTT/issues"
+  },
+  "homepage": "https://github.com/FilBot3/Genesys-for-FoundryVTT#readme",
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "grunt": "^1.2.1",
+    "grunt-cli": "^1.3.2",
+    "grunt-ts": "^6.0.0-beta.22",
+    "typescript": "^3.9.7"
+  }
+}

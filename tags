@@ -1,0 +1,1153 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/631690ad/
+.bottom	styles/simple.css	/^.genesys .resoureceBox, .top, .bottom {$/;"	c
+.genesys .ability-mod	styles/simple.css	/^.genesys .ability-mod{$/;"	c
+.genesys .ability-mod label:hover	styles/simple.css	/^.genesys .ability-mod label:hover{$/;"	s
+.genesys .addTalent	styles/simple.css	/^.genesys .addTalent {$/;"	c
+.genesys .basicInfo	styles/simple.css	/^.genesys .basicInfo {$/;"	c
+.genesys .basicInfoBox	styles/simple.css	/^.genesys .basicInfoBox{$/;"	c
+.genesys .bioBox	styles/simple.css	/^.genesys .bioBox {$/;"	c
+.genesys .bioBox .footer .row input	styles/simple.css	/^.genesys .bioBox .footer .row input {$/;"	s
+.genesys .bioBox .footer .row label	styles/simple.css	/^.genesys .bioBox .footer .row label {$/;"	s
+.genesys .bioBox .heroicBox	styles/simple.css	/^.genesys .bioBox .heroicBox{$/;"	c
+.genesys .bioBox .outerBox	styles/simple.css	/^.genesys .bioBox .outerBox {$/;"	c
+.genesys .bioBox .outerBox .box	styles/simple.css	/^.genesys .bioBox .outerBox .box {$/;"	c
+.genesys .bioBox .outerBox .box textarea	styles/simple.css	/^.genesys .bioBox .outerBox .box textarea{$/;"	s
+.genesys .bioBox .row	styles/simple.css	/^.genesys .bioBox .row {$/;"	c
+.genesys .bioBox .row label	styles/simple.css	/^.genesys .bioBox .row label{$/;"	s
+.genesys .bioBox input	styles/simple.css	/^.genesys .bioBox input,$/;"	s
+.genesys .bioBox textarea	styles/simple.css	/^.genesys .bioBox textarea {$/;"	s
+.genesys .charInfo	styles/simple.css	/^.genesys .charInfo {$/;"	c
+.genesys .charInfo .row	styles/simple.css	/^.genesys .charInfo .row {$/;"	c
+.genesys .charInfo .row label	styles/simple.css	/^.genesys .charInfo .row label{$/;"	s
+.genesys .charInfoSub	styles/simple.css	/^.genesys .charInfoSub {$/;"	c
+.genesys .charInfoSub input	styles/simple.css	/^.genesys .charInfoSub input,$/;"	s
+.genesys .character	styles/simple.css	/^.genesys .character, .vehicle {$/;"	c
+.genesys .characteristics	styles/simple.css	/^.genesys .characteristics{$/;"	c
+.genesys .characteristics input	styles/simple.css	/^.genesys .characteristics input{$/;"	s
+.genesys .dialog-button	styles/simple.css	/^.genesys .dialog-button{$/;"	c
+.genesys .diceRoller-body	styles/simple.css	/^.genesys .diceRoller-body {$/;"	c
+.genesys .diceRoller-body .abilityDie	styles/simple.css	/^.genesys .diceRoller-body .abilityDie{$/;"	c
+.genesys .diceRoller-body .boostDie	styles/simple.css	/^.genesys .diceRoller-body .boostDie{$/;"	c
+.genesys .diceRoller-body .challengeDie	styles/simple.css	/^.genesys .diceRoller-body .challengeDie{$/;"	c
+.genesys .diceRoller-body .difficultyDie	styles/simple.css	/^.genesys .diceRoller-body .difficultyDie{$/;"	c
+.genesys .diceRoller-body .flex-col	styles/simple.css	/^.genesys .diceRoller-body .flex-col{$/;"	c
+.genesys .diceRoller-body .flex-row	styles/simple.css	/^.genesys  .diceRoller-body .flex-row{$/;"	c
+.genesys .diceRoller-body .proficiencyDie	styles/simple.css	/^.genesys .diceRoller-body .proficiencyDie{$/;"	c
+.genesys .diceRoller-body .rollerBox	styles/simple.css	/^.genesys  .diceRoller-body .rollerBox{$/;"	c
+.genesys .diceRoller-body .rollerBox a	styles/simple.css	/^.genesys  .diceRoller-body .rollerBox a{$/;"	s
+.genesys .diceRoller-body .setbackDie	styles/simple.css	/^.genesys .diceRoller-body .setbackDie{$/;"	c
+.genesys .diceRoller-body img	styles/simple.css	/^.genesys .diceRoller-body img{$/;"	s
+.genesys .diceRoller-body input[type="number"]	styles/simple.css	/^.genesys .diceRoller-body input[type="number"]{$/;"	s
+.genesys .diceRoller-body p	styles/simple.css	/^.genesys .diceRoller-body p{$/;"	s
+.genesys .diceRoller-header	styles/simple.css	/^.genesys .diceRoller-header {$/;"	c
+.genesys .discriptor	styles/simple.css	/^.genesys .discriptor {$/;"	c
+.genesys .editable	styles/simple.css	/^.genesys .editable{$/;"	c
+.genesys .editor	styles/simple.css	/^.genesys .editor, .genesys .editor-content{$/;"	c
+.genesys .editor-content	styles/simple.css	/^.genesys .editor, .genesys .editor-content{$/;"	c
+.genesys .exp	styles/simple.css	/^.genesys .exp {$/;"	c
+.genesys .exp .subExp	styles/simple.css	/^.genesys .exp .subExp{$/;"	c
+.genesys .exp .subExp .descriptor	styles/simple.css	/^.genesys .exp .subExp .descriptor{$/;"	c
+.genesys .exp .subExp input	styles/simple.css	/^.genesys .exp .subExp input{$/;"	s
+.genesys .exp input	styles/simple.css	/^.genesys .exp input{$/;"	s
+.genesys .firstCell	styles/simple.css	/^.genesys .firstCell{$/;"	c
+.genesys .footer	styles/simple.css	/^.genesys .footer {$/;"	c
+.genesys .footer .heroicInput	styles/simple.css	/^.genesys .footer .heroicInput {$/;"	c
+.genesys .footer .row	styles/simple.css	/^}.genesys .footer .row {$/;"	c
+.genesys .fourthCell	styles/simple.css	/^.genesys .fourthCell{$/;"	c
+.genesys .fourthCell label	styles/simple.css	/^.genesys .fourthCell label {$/;"	s
+.genesys .header-fields	styles/simple.css	/^.genesys .header-fields{$/;"	c
+.genesys .headerTop	styles/simple.css	/^.genesys .headerTop {$/;"	c
+.genesys .item-body .row	styles/simple.css	/^.genesys .item-body .row {$/;"	c
+.genesys .item-body input	styles/simple.css	/^.genesys .item-body input {$/;"	s
+.genesys .item-body label	styles/simple.css	/^.genesys .item-body label {$/;"	s
+.genesys .item-body textarea	styles/simple.css	/^.genesys .item-body textarea {$/;"	s
+.genesys .item-header	styles/simple.css	/^.genesys .item-header {$/;"	c
+.genesys .item-header .header-fields	styles/simple.css	/^.genesys .item-header .header-fields{$/;"	c
+.genesys .item-header .title	styles/simple.css	/^.genesys .item-header .title{$/;"	c
+.genesys .itemBox	styles/simple.css	/^.genesys .itemBox {$/;"	c
+.genesys .itemHeader	styles/simple.css	/^.genesys .itemHeader{$/;"	c
+.genesys .itemHeader p	styles/simple.css	/^.genesys .itemHeader p{$/;"	s
+.genesys .items-list .item-name	styles/simple.css	/^.genesys .items-list .item-name{$/;"	c
+.genesys .items-list .listBox	styles/simple.css	/^.genesys .items-list .listBox{$/;"	c
+.genesys .items-list img	styles/simple.css	/^.genesys .items-list img{$/;"	s
+.genesys .leftBox	styles/simple.css	/^.genesys .leftBox{$/;"	c
+.genesys .money	styles/simple.css	/^.genesys .money {$/;"	c
+.genesys .profile-img	styles/simple.css	/^.genesys .profile-img{$/;"	c
+.genesys .resource	styles/simple.css	/^.genesys .resource{$/;"	c
+.genesys .resource .data	styles/simple.css	/^.genesys .resource .data{$/;"	c
+.genesys .resource input	styles/simple.css	/^.genesys .resource input{$/;"	s
+.genesys .resourceBox	styles/simple.css	/^.genesys .resourceBox {$/;"	c
+.genesys .resourceBox	styles/simple.css	/^.genesys .resourceBox{$/;"	c
+.genesys .resoureceBox	styles/simple.css	/^.genesys .resoureceBox, .top, .bottom {$/;"	c
+.genesys .rightBox	styles/simple.css	/^.genesys .rightBox{$/;"	c
+.genesys .rollCell	styles/simple.css	/^.genesys .rollCell {$/;"	c
+.genesys .sheet-body	styles/simple.css	/^.genesys .sheet-body {$/;"	c
+.genesys .sheet-body .skillbody	styles/simple.css	/^.genesys .sheet-body .skillbody, .secondCell, .thirdCell {$/;"	c
+.genesys .sheet-body .skillbody tr	styles/simple.css	/^.genesys .sheet-body .skillbody tr{$/;"	s
+.genesys .sheet-header	styles/simple.css	/^.genesys .sheet-header {$/;"	c
+.genesys .sheet-header input	styles/simple.css	/^.genesys .sheet-header input {$/;"	s
+.genesys .singleCharacteristics	styles/simple.css	/^.genesys .singleCharacteristics {$/;"	c
+.genesys .skillTableHead	styles/simple.css	/^.genesys .skillTableHead {$/;"	c
+.genesys .skillbody	styles/simple.css	/^.genesys .skillbody {$/;"	c
+.genesys .tab .characteristic	styles/simple.css	/^.genesys  .tab .characteristic{$/;"	c
+.genesys .tab .label	styles/simple.css	/^.genesys  .tab .label{$/;"	c
+.genesys .tabs	styles/simple.css	/^.genesys .tabs {$/;"	c
+.genesys .tabs .item	styles/simple.css	/^}.genesys .tabs .item{$/;"	c
+.genesys .talentBox	styles/simple.css	/^.genesys .talentBox {$/;"	c
+.genesys .talentHeader	styles/simple.css	/^.genesys .talentHeader {$/;"	c
+.genesys .talentHeader label	styles/simple.css	/^.genesys .talentHeader label{$/;"	s
+.genesys .vehicle .header-fields	styles/simple.css	/^.genesys .vehicle .header-fields{$/;"	c
+.genesys .vehicle .sheet-header	styles/simple.css	/^.genesys .vehicle .sheet-header{$/;"	c
+.genesys .vehicle .sheet-header h1	styles/simple.css	/^.genesys .vehicle .sheet-header h1 {$/;"	s
+.genesys .vehicle .tab .resourceBox .resource	styles/simple.css	/^.genesys .vehicle .tab .resourceBox .resource{$/;"	c
+.genesys .vehicle .tab .resourceBox .resource .data	styles/simple.css	/^.genesys .vehicle .tab .resourceBox .resource .data{$/;"	c
+.genesys .vehicle .tab .resourceBox .resource input	styles/simple.css	/^.genesys .vehicle .tab .resourceBox .resource input{$/;"	s
+.genesys .window-content	styles/simple.css	/^.genesys .window-content {$/;"	c
+.genesys input[type="number"]	styles/simple.css	/^.genesys input[type="number"] {$/;"	s
+.genesys ol	styles/simple.css	/^.genesys ol{$/;"	s
+.genesys table	styles/simple.css	/^.genesys table {$/;"	s
+.genesys tbody	styles/simple.css	/^.genesys tbody{$/;"	s
+.secondCell	styles/simple.css	/^.genesys .sheet-body .skillbody, .secondCell, .thirdCell {$/;"	c
+.special-dice-roller input	styles/simple.css	/^.special-dice-roller input{$/;"	s
+.thirdCell	styles/simple.css	/^.genesys .sheet-body .skillbody, .secondCell, .thirdCell {$/;"	c
+.top	styles/simple.css	/^.genesys .resoureceBox, .top, .bottom {$/;"	c
+.vehicle	styles/simple.css	/^.genesys .character, .vehicle {$/;"	c
+0	package.json	/^    "FoundryVTT",$/;"	s	array:keywords
+0	system.json	/^  "esmodules": ["module\/simple.js"],$/;"	s	array:esmodules
+0	system.json	/^  "styles": ["styles\/simple.css","styles\/items.css"],$/;"	s	array:styles
+0	template.json	/^			"armor",$/;"	s	array:Item.types
+0	template.json	/^			"character",$/;"	s	array:Actor.types
+1	package.json	/^    "VTT",$/;"	s	array:keywords
+1	system.json	/^  "styles": ["styles\/simple.css","styles\/items.css"],$/;"	s	array:styles
+1	template.json	/^			"gear",$/;"	s	array:Item.types
+1	template.json	/^			"vehicle"$/;"	s	array:Actor.types
+2	package.json	/^    "Foundry",$/;"	s	array:keywords
+2	template.json	/^			"injury",$/;"	s	array:Item.types
+3	package.json	/^    "Genesys"$/;"	s	array:keywords
+3	template.json	/^			"talent",$/;"	s	array:Item.types
+4	template.json	/^			"weapon"$/;"	s	array:Item.types
+Actor	template.json	/^	"Actor": {$/;"	o
+AnonymousFunction38a9e0cf0100	module/simple.js	/^Hooks.once("init", async function() {$/;"	f
+Changelog	CHANGELOG.md	/^# Changelog$/;"	c
+CharacterActorSheet	module/actor-sheet.js	/^export class CharacterActorSheet extends GenesysActorSheet {$/;"	c
+Development and Testing	README.md	/^## Development and Testing$/;"	s	chapter:Genesys for FoundryVTT
+Genesys for FoundryVTT	README.md	/^# Genesys for FoundryVTT$/;"	c
+GenesysActorSheet	module/GenesysActor-sheet.js	/^export class GenesysActorSheet extends ActorSheet {$/;"	c
+Item	template.json	/^	"Item": {$/;"	o
+Knowledge	template.json	/^				"Knowledge": {$/;"	o	object:Actor.character.skills
+Name	template.json	/^			"Name": "item",$/;"	s	object:Item.weapon
+Overview	README.md	/^## Overview$/;"	s	chapter:Genesys for FoundryVTT
+References	README.md	/^## References$/;"	s	chapter:Genesys for FoundryVTT
+Requirements	README.md	/^## Requirements$/;"	s	chapter:Genesys for FoundryVTT
+SVGRoot	resources/ability.svg	/^   sodipodi:docname="ability.svg">$/;"	i
+SVGRoot	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	i
+SVGRoot	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	i
+SVGRoot	resources/bar.svg	/^   sodipodi:docname="bar.svg">$/;"	i
+SVGRoot	resources/boost.svg	/^   sodipodi:docname="boost.svg">$/;"	i
+SVGRoot	resources/challenge.svg	/^   sodipodi:docname="challenge.svg">$/;"	i
+SVGRoot	resources/difficulty.svg	/^   sodipodi:docname="difficulty.svg">$/;"	i
+SVGRoot	resources/gear.svg	/^   sodipodi:docname="gear.svg">$/;"	i
+SVGRoot	resources/injury.svg	/^   sodipodi:docname="injury.svg">$/;"	i
+SVGRoot	resources/proficiency.svg	/^   sodipodi:docname="proficiency.svg">$/;"	i
+SVGRoot	resources/setback.svg	/^   sodipodi:docname="setback.svg">$/;"	i
+SVGRoot	resources/shield.svg	/^   sodipodi:docname="shield.svg">$/;"	i
+SVGRoot	resources/split_stats.svg	/^   sodipodi:docname="drawing.svg">$/;"	i
+SVGRoot	resources/sword.svg	/^   sodipodi:docname="sword.svg">$/;"	i
+SVGRoot	resources/talent.svg	/^   sodipodi:docname="talent.svg">$/;"	i
+SVGRoot	resources/triumph_black.svg	/^   sodipodi:docname="triumph_black.svg">$/;"	i
+SVGRoot	resources/triumph_white.svg	/^   sodipodi:docname="triumph_white.svg">$/;"	i
+Setup	README.md	/^## Setup$/;"	s	chapter:Genesys for FoundryVTT
+SimpleActor	module/actor.js	/^export class SimpleActor extends Actor {$/;"	c
+SimpleItemSheet	module/item-sheet.js	/^export class SimpleItemSheet extends ItemSheet {$/;"	c
+Usage	README.md	/^## Usage$/;"	s	chapter:Genesys for FoundryVTT
+VehicleActorSheet	module/vehicle-sheet.js	/^export class VehicleActorSheet extends GenesysActorSheet {$/;"	c
+[0.1.0] 2020-05-10	CHANGELOG.md	/^## [0.1.0] 2020-05-10$/;"	s	chapter:Changelog
+[0.11.0] 2020-05-13	CHANGELOG.md	/^## [0.11.0] 2020-05-13$/;"	s	chapter:Changelog
+[0.2.0] 2020-05-20	CHANGELOG.md	/^## [0.2.0] 2020-05-20$/;"	s	chapter:Changelog
+[Unreleased]	CHANGELOG.md	/^## [Unreleased]$/;"	s	chapter:Changelog
+_onClickAttributeControl	module/vehicle-sheet.js	/^    async _onClickAttributeControl(event) {$/;"	m	class:VehicleActorSheet
+_onClickTalentControl	module/actor-sheet.js	/^async _onClickTalentControl(event) {$/;"	m	class:CharacterActorSheet
+_prepareCharacterItems	module/actor-sheet.js	/^_prepareCharacterItems(sheetData) {$/;"	m	class:CharacterActorSheet
+_prepareCharacterItems	module/vehicle-sheet.js	/^_prepareCharacterItems(sheetData) {$/;"	m	class:VehicleActorSheet
+_render	module/GenesysActor-sheet.js	/^async _render(force = false, options = {}) {$/;"	m	class:GenesysActorSheet
+_saveScrollPos	module/GenesysActor-sheet.js	/^_saveScrollPos()$/;"	m	class:GenesysActorSheet
+_setScrollPos	module/GenesysActor-sheet.js	/^    _setScrollPos()$/;"	m	class:GenesysActorSheet
+_updateObject	module/GenesysActor-sheet.js	/^_updateObject(event, formData) {$/;"	m	class:GenesysActorSheet
+_updateObject	module/actor-sheet.js	/^_updateObject(event, formData) {$/;"	m	class:CharacterActorSheet
+_updateObject	module/vehicle-sheet.js	/^    _updateObject(event, formData) {$/;"	m	class:VehicleActorSheet
+ability	module/dicePopout.js	/^      ability: this.array[0],$/;"	p	class:dicePopout.getData.data
+ability	module/genesysUtil.js	/^            ability: green,$/;"	p	class:genesysUtil.abilityToObject.object
+ability	templates/dicePopout.html	/^                    <div class="flex-col"><input type="number" class="ability" id="ability" min=/;"	I
+abilityToArray	module/genesysUtil.js	/^    static abilityToArray(characteristic, skill) {$/;"	m	class:genesysUtil
+abilityToObject	module/genesysUtil.js	/^    static abilityToObject(characteristic, skill) {$/;"	m	class:genesysUtil
+activateListeners	module/actor-sheet.js	/^activateListeners(html) {$/;"	m	class:CharacterActorSheet
+activateListeners	module/dicePopout.js	/^  activateListeners(html) {$/;"	m	class:dicePopout
+activateListeners	module/item-sheet.js	/^    activateListeners(html) {$/;"	m	class:SimpleItemSheet
+activateListeners	module/vehicle-sheet.js	/^      activateListeners(html) {$/;"	m	class:VehicleActorSheet
+active	template.json	/^			"active": false,$/;"	b	object:Item.talent
+age	template.json	/^				"age": "",$/;"	s	object:Actor.character.description
+agility	template.json	/^				"agility": {$/;"	o	object:Actor.character.characteristics
+alchemy	template.json	/^				"alchemy": {$/;"	o	object:Actor.character.skills
+arcane	template.json	/^				"arcane": {$/;"	o	object:Actor.character.skills
+armor	template.json	/^				"armor": {$/;"	o	object:Actor.vehicle.statsVec
+armor	template.json	/^		"armor": {$/;"	o	object:Item
+astrocartography	template.json	/^				"astrocartography": {$/;"	o	object:Actor.character.skills
+athletics	template.json	/^				"athletics": {$/;"	o	object:Actor.character.skills
+author	package.json	/^  "author": "Phillip Dudley <Predatorian3@gmail.com>",$/;"	s
+author	system.json	/^  "author": "Ceedd Kerman",$/;"	s
+availableAp	template.json	/^				"availableAp": 0$/;"	n	object:Actor.character.heroicAbility
+base	resources/ability.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/arrow_left.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/arrow_right.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/bar.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/boost.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/challenge.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/condition.svg	/^     inkscape:pagecheckerboard="true">$/;"	i
+base	resources/difficulty.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/gear.svg	/^     inkscape:bbox-nodes="true" \/>$/;"	i
+base	resources/injury.svg	/^     inkscape:bbox-paths="true" \/>$/;"	i
+base	resources/proficiency.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/setback.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/shield.svg	/^     inkscape:pagecheckerboard="true" \/>$/;"	i
+base	resources/split_stats.svg	/^     inkscape:window-maximized="1" \/>$/;"	i
+base	resources/sword.svg	/^     inkscape:snap-bbox-midpoints="true" \/>$/;"	i
+base	resources/talent.svg	/^     inkscape:pagecheckerboard="true" \/>$/;"	i
+base	resources/triumph_black.svg	/^     inkscape:pagecheckerboard="true" \/>$/;"	i
+base	resources/triumph_white.svg	/^     inkscape:pagecheckerboard="true" \/>$/;"	i
+basic	template.json	/^			"basic": {$/;"	o	object:Actor.character
+bioDesire	template.json	/^			"bioDesire": "",$/;"	s	object:Actor.character
+bioFear	template.json	/^			"bioFear": "",$/;"	s	object:Actor.character
+bioFlaw	template.json	/^			"bioFlaw": "",$/;"	s	object:Actor.character
+bioHeroic	template.json	/^			"bioHeroic": "",$/;"	s	object:Actor.character
+bioStrength	template.json	/^			"bioStrength": "",$/;"	s	object:Actor.character
+boost	module/dicePopout.js	/^      boost: this.array[1],$/;"	p	class:dicePopout.getData.data
+boost	module/genesysUtil.js	/^            boost: 0,$/;"	p	class:genesysUtil.abilityToObject.object
+boost	templates/dicePopout.html	/^                    <div class="flex-col"><input type="number" class="boost" id="boost" min="0" /;"	I
+brawl	template.json	/^				"brawl": {$/;"	o	object:Actor.character.skills
+brawn	template.json	/^				"brawn": {$/;"	o	object:Actor.character.characteristics
+bugs	package.json	/^  "bugs": {$/;"	o
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.customSkils.custom1
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.customSkils.custom2
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.customSkils.custom3
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.customSkils.custom4
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.customSkils.knowledge1
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.customSkils.knowledge2
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.customSkils.knowledge3
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.Knowledge
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.alchemy
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.arcane
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.astrocartography
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.athletics
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.brawl
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.charm
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.coercion
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.computers
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.cool
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.coordination
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.deception
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.discipline
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.divine
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.driving
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.gunnery
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.leadership
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.mechanics
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.medicine
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.melee
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.melee-heavy
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.melee-light
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.negotiation
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.operating
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.perception
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.piloting
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.primal
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.ranged
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.ranged-heavy
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.ranged-light
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.resilience
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.riding
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.skulduggery
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.stealh
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.streetwise
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.survival
+career	template.json	/^					"career": false,$/;"	b	object:Actor.character.skills.vigilance
+career	template.json	/^				"career": "",$/;"	s	object:Actor.character.basic
+cc	resources/ability.svg	/^   sodipodi:docname="ability.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/bar.svg	/^   sodipodi:docname="bar.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/boost.svg	/^   sodipodi:docname="boost.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/challenge.svg	/^   sodipodi:docname="challenge.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/condition.svg	/^   sodipodi:docname="condition.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/difficulty.svg	/^   sodipodi:docname="difficulty.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/gear.svg	/^   sodipodi:docname="gear.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/injury.svg	/^   sodipodi:docname="injury.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/proficiency.svg	/^   sodipodi:docname="proficiency.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/setback.svg	/^   sodipodi:docname="setback.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/shield.svg	/^   sodipodi:docname="shield.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/split_stats.svg	/^   sodipodi:docname="drawing.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/sword.svg	/^   sodipodi:docname="sword.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/talent.svg	/^   sodipodi:docname="talent.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/triumph_black.svg	/^   sodipodi:docname="triumph_black.svg">$/;"	n	uri:http://creativecommons.org/ns#
+cc	resources/triumph_white.svg	/^   sodipodi:docname="triumph_white.svg">$/;"	n	uri:http://creativecommons.org/ns#
+challenge	module/dicePopout.js	/^      challenge: this.array[5]$/;"	p	class:dicePopout.getData.data
+challenge	module/genesysUtil.js	/^            challenge: 0$/;"	p	class:genesysUtil.abilityToObject.object
+challenge	templates/dicePopout.html	/^                    <div class="flex-col"><input type="number" class="challenge" id="challenge" /;"	I
+character	template.json	/^		"character": {$/;"	o	object:Actor
+characteristic	template.json	/^					"characteristic": ""$/;"	s	object:Actor.character.customSkils.custom2
+characteristic	template.json	/^					"characteristic": ""$/;"	s	object:Actor.character.customSkils.custom3
+characteristic	template.json	/^					"characteristic": ""$/;"	s	object:Actor.character.customSkils.custom4
+characteristic	template.json	/^					"characteristic": "ag"$/;"	s	object:Actor.character.skills.coordination
+characteristic	template.json	/^					"characteristic": "ag"$/;"	s	object:Actor.character.skills.driving
+characteristic	template.json	/^					"characteristic": "ag"$/;"	s	object:Actor.character.skills.gunnery
+characteristic	template.json	/^					"characteristic": "ag"$/;"	s	object:Actor.character.skills.piloting
+characteristic	template.json	/^					"characteristic": "ag"$/;"	s	object:Actor.character.skills.ranged
+characteristic	template.json	/^					"characteristic": "ag"$/;"	s	object:Actor.character.skills.ranged-heavy
+characteristic	template.json	/^					"characteristic": "ag"$/;"	s	object:Actor.character.skills.ranged-light
+characteristic	template.json	/^					"characteristic": "ag"$/;"	s	object:Actor.character.skills.riding
+characteristic	template.json	/^					"characteristic": "ag"$/;"	s	object:Actor.character.skills.stealh
+characteristic	template.json	/^					"characteristic": "br"$/;"	s	object:Actor.character.skills.athletics
+characteristic	template.json	/^					"characteristic": "br"$/;"	s	object:Actor.character.skills.brawl
+characteristic	template.json	/^					"characteristic": "br"$/;"	s	object:Actor.character.skills.melee
+characteristic	template.json	/^					"characteristic": "br"$/;"	s	object:Actor.character.skills.melee-heavy
+characteristic	template.json	/^					"characteristic": "br"$/;"	s	object:Actor.character.skills.melee-light
+characteristic	template.json	/^					"characteristic": "br"$/;"	s	object:Actor.character.skills.resilience
+characteristic	template.json	/^					"characteristic": "cun"$/;"	s	object:Actor.character.skills.deception
+characteristic	template.json	/^					"characteristic": "cun"$/;"	s	object:Actor.character.skills.primal
+characteristic	template.json	/^					"characteristic": "cun"$/;"	s	object:Actor.character.skills.skulduggery
+characteristic	template.json	/^					"characteristic": "cun"$/;"	s	object:Actor.character.skills.streetwise
+characteristic	template.json	/^					"characteristic": "cun"$/;"	s	object:Actor.character.skills.survival
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.customSkils.knowledge1
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.customSkils.knowledge2
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.customSkils.knowledge3
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.skills.Knowledge
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.skills.alchemy
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.skills.arcane
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.skills.astrocartography
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.skills.computers
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.skills.mechanics
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.skills.medicine
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.skills.operating
+characteristic	template.json	/^					"characteristic": "int"$/;"	s	object:Actor.character.skills.perception
+characteristic	template.json	/^					"characteristic": "pr"$/;"	s	object:Actor.character.skills.charm
+characteristic	template.json	/^					"characteristic": "pr"$/;"	s	object:Actor.character.skills.cool
+characteristic	template.json	/^					"characteristic": "pr"$/;"	s	object:Actor.character.skills.leadership
+characteristic	template.json	/^					"characteristic": "pr"$/;"	s	object:Actor.character.skills.negotiation
+characteristic	template.json	/^					"characteristic": "will"$/;"	s	object:Actor.character.skills.coercion
+characteristic	template.json	/^					"characteristic": "will"$/;"	s	object:Actor.character.skills.discipline
+characteristic	template.json	/^					"characteristic": "will"$/;"	s	object:Actor.character.skills.divine
+characteristic	template.json	/^					"characteristic": "will"$/;"	s	object:Actor.character.skills.vigilance
+characteristic	template.json	/^					"characteristic": "´"$/;"	s	object:Actor.character.customSkils.custom1
+characteristics	template.json	/^			"characteristics": {$/;"	o	object:Actor.character
+charm	template.json	/^				"charm": {$/;"	o	object:Actor.character.skills
+charname	template.json	/^				"charname": "",$/;"	s	object:Actor.character.basic
+coercion	template.json	/^				"coercion": {$/;"	o	object:Actor.character.skills
+compatibleCoreVersion	system.json	/^  "compatibleCoreVersion": "0.5.7",$/;"	s
+complement	template.json	/^				"complement": {$/;"	o	object:Actor.vehicle.statsVec
+computers	template.json	/^				"computers": {$/;"	o	object:Actor.character.skills
+constructor	module/dicePopout.js	/^  constructor(array, options) {$/;"	m	class:dicePopout
+consumables	template.json	/^				"consumables": {$/;"	o	object:Actor.vehicle.statsVec
+controlSkill	template.json	/^				"controlSkill": {$/;"	o	object:Actor.vehicle.statsVec
+cool	template.json	/^				"cool": {$/;"	o	object:Actor.character.skills
+coordination	template.json	/^				"coordination": {$/;"	o	object:Actor.character.skills
+crit	template.json	/^			"crit": 0,$/;"	n	object:Item.weapon
+cunning	template.json	/^				"cunning": {$/;"	o	object:Actor.character.characteristics
+custom1	template.json	/^				"custom1": {$/;"	o	object:Actor.character.customSkils
+custom2	template.json	/^				"custom2": {$/;"	o	object:Actor.character.customSkils
+custom3	template.json	/^				"custom3": {$/;"	o	object:Actor.character.customSkils
+custom4	template.json	/^				"custom4": {$/;"	o	object:Actor.character.customSkils
+customSkils	template.json	/^			"customSkils": {$/;"	o	object:Actor.character
+damage	template.json	/^			"damage": 0,$/;"	n	object:Item.weapon
+data	module/dicePopout.js	/^    const data = {$/;"	c	class:dicePopout.getData
+dc	resources/ability.svg	/^   sodipodi:docname="ability.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/bar.svg	/^   sodipodi:docname="bar.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/boost.svg	/^   sodipodi:docname="boost.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/challenge.svg	/^   sodipodi:docname="challenge.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/condition.svg	/^   sodipodi:docname="condition.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/difficulty.svg	/^   sodipodi:docname="difficulty.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/gear.svg	/^   sodipodi:docname="gear.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/injury.svg	/^   sodipodi:docname="injury.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/proficiency.svg	/^   sodipodi:docname="proficiency.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/setback.svg	/^   sodipodi:docname="setback.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/shield.svg	/^   sodipodi:docname="shield.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/split_stats.svg	/^   sodipodi:docname="drawing.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/sword.svg	/^   sodipodi:docname="sword.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/talent.svg	/^   sodipodi:docname="talent.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/triumph_black.svg	/^   sodipodi:docname="triumph_black.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+dc	resources/triumph_white.svg	/^   sodipodi:docname="triumph_white.svg">$/;"	n	uri:http://purl.org/dc/elements/1.1/
+deception	template.json	/^				"deception": {$/;"	o	object:Actor.character.skills
+decimals	module/simple.js	/^    decimals: 2$/;"	p	class:CONFIG.Combat.initiative
+defaultOptions	module/actor-sheet.js	/^    static get defaultOptions() {$/;"	G	class:CharacterActorSheet
+defaultOptions	module/dicePopout.js	/^  static get defaultOptions() {$/;"	G	class:dicePopout
+defaultOptions	module/item-sheet.js	/^    static get defaultOptions() {$/;"	G	class:SimpleItemSheet
+defaultOptions	module/vehicle-sheet.js	/^      static get defaultOptions() {$/;"	G	class:VehicleActorSheet
+defence	template.json	/^				"defence": {$/;"	o	object:Actor.character.stats
+defence	template.json	/^				"defence": {$/;"	o	object:Actor.vehicle.statsVec
+defence	template.json	/^			"defence": 0,$/;"	n	object:Item.armor
+defs1366	resources/shield.svg	/^     id="defs1366" \/>$/;"	i
+defs1445	resources/triumph_black.svg	/^     id="defs1445" \/>$/;"	i
+defs1445	resources/triumph_white.svg	/^     id="defs1445" \/>$/;"	i
+defs1959	resources/sword.svg	/^     id="defs1959" \/>$/;"	i
+defs2	resources/condition.svg	/^     id="defs2" \/>$/;"	i
+defs2548	resources/injury.svg	/^     id="defs2548" \/>$/;"	i
+defs3207	resources/talent.svg	/^     id="defs3207" \/>$/;"	i
+defs3781	resources/gear.svg	/^     id="defs3781" \/>$/;"	i
+defs815	resources/arrow_left.svg	/^     id="defs815">$/;"	i
+defs815	resources/arrow_right.svg	/^     id="defs815">$/;"	i
+defs815	resources/bar.svg	/^     id="defs815" \/>$/;"	i
+defs815	resources/boost.svg	/^     id="defs815" \/>$/;"	i
+defs815	resources/setback.svg	/^     id="defs815" \/>$/;"	i
+defs815	resources/split_stats.svg	/^     id="defs815" \/>$/;"	i
+defs816	resources/ability.svg	/^     id="defs816" \/>$/;"	i
+defs816	resources/challenge.svg	/^     id="defs816" \/>$/;"	i
+defs816	resources/difficulty.svg	/^     id="defs816" \/>$/;"	i
+defs816	resources/proficiency.svg	/^     id="defs816" \/>$/;"	i
+description	package.json	/^  "description": "Genesys System for the Foundry VTT",$/;"	s
+description	system.json	/^  "description": "Trying to make a charactersheet for Genesys based on the simple worldbuilding /;"	s
+description	template.json	/^			"description": ""$/;"	s	object:Item.armor
+description	template.json	/^			"description": ""$/;"	s	object:Item.gear
+description	template.json	/^			"description": ""$/;"	s	object:Item.injury
+description	template.json	/^			"description": ""$/;"	s	object:Item.weapon
+description	template.json	/^			"description": "",$/;"	s	object:Item.talent
+description	template.json	/^			"description": {$/;"	o	object:Actor.character
+diceArrayToSObject	module/genesysUtil.js	/^    static diceArrayToSObject(object) {$/;"	m	class:genesysUtil
+diceArrayToString	module/genesysUtil.js	/^    static diceArrayToString(array) {$/;"	m	class:genesysUtil
+dicePopout	module/dicePopout.js	/^export class dicePopout extends Application {$/;"	c
+difficulty	module/dicePopout.js	/^      difficulty: this.array[4],$/;"	p	class:dicePopout.getData.data
+difficulty	module/genesysUtil.js	/^            difficulty: 0,$/;"	p	class:genesysUtil.abilityToObject.object
+difficulty	templates/dicePopout.html	/^                    <div class="flex-col"><input type="number" class="difficulty" id="difficulty/;"	I
+discipline	template.json	/^				"discipline": {$/;"	o	object:Actor.character.skills
+divine	template.json	/^				"divine": {$/;"	o	object:Actor.character.skills
+download	system.json	/^  "download": "https:\/\/github.com\/ceedd\/Genesys-for-FoundryVTT\/archive\/release-v0.2.zip",$/;"	s
+driving	template.json	/^				"driving": {$/;"	o	object:Actor.character.skills
+encumbrance	template.json	/^			"encumbrance": 0,$/;"	n	object:Item.armor
+encumbrance	template.json	/^			"encumbrance": 0,$/;"	n	object:Item.gear
+encumbrance	template.json	/^			"encumbrance": 0,$/;"	n	object:Item.weapon
+encumbranceCapacity	template.json	/^				"encumbranceCapacity": {$/;"	o	object:Actor.vehicle.statsVec
+esmodules	system.json	/^  "esmodules": ["module\/simple.js"],$/;"	a
+experience	template.json	/^			"experience": 0,$/;"	n	object:Actor.character
+eyes	template.json	/^				"eyes": "",$/;"	s	object:Actor.character.description
+formula	module/simple.js	/^	  formula: "1d20",$/;"	p	class:CONFIG.Combat.initiative
+g1455	resources/split_stats.svg	/^       style="stroke-width:3.57012439">$/;"	i
+g2016	resources/triumph_black.svg	/^       style="fill:#000000;fill-opacity:0.94485295;stroke-width:0.60408181">$/;"	i
+g2016	resources/triumph_white.svg	/^       style="fill:#fffffe;fill-opacity:1;stroke-width:0.60408181">$/;"	i
+g4343	resources/gear.svg	/^       style="stroke-width:7.28491696;stroke-miterlimit:4;stroke-dasharray:none;stroke:#8b362c;s/;"	i
+g4530	resources/condition.svg	/^       style="stroke-width:0.93148726;fill:#ffffff;fill-opacity:0.93014705;stroke:#ffffff;stroke/;"	i
+gear	template.json	/^		"gear": {$/;"	o	object:Item
+gender	template.json	/^				"gender": "",$/;"	s	object:Actor.character.description
+genesysInitiative	module/genesysUtil.js	/^    static genesysInitiative(array) {$/;"	m	class:genesysUtil
+genesysUtil	module/genesysUtil.js	/^export class genesysUtil {$/;"	c
+getData	module/actor-sheet.js	/^getData() {$/;"	m	class:CharacterActorSheet
+getData	module/dicePopout.js	/^  getData() {$/;"	m	class:dicePopout
+getData	module/item-sheet.js	/^    getData() {$/;"	m	class:SimpleItemSheet
+getData	module/vehicle-sheet.js	/^getData() {$/;"	m	class:VehicleActorSheet
+getRollData	module/actor.js	/^  getRollData() {$/;"	m	class:SimpleActor
+getValues	module/dicePopout.js	/^  getValues(){$/;"	m	class:dicePopout
+grid4523	resources/condition.svg	/^       id="grid4523" \/>$/;"	i
+gridDistance	system.json	/^  "gridDistance": 1,$/;"	n
+gridUnits	system.json	/^  "gridUnits": "m",$/;"	s
+gunnery	template.json	/^				"gunnery": {$/;"	o	object:Actor.character.skills
+hair	template.json	/^				"hair": "",$/;"	s	object:Actor.character.description
+handling	template.json	/^				"handling": {$/;"	o	object:Actor.vehicle.statsVec
+height	template.json	/^				"height": "",$/;"	s	object:Actor.character.description
+heroicAbility	template.json	/^			"heroicAbility": {$/;"	o	object:Actor.character
+homepage	package.json	/^  "homepage": "https:\/\/github.com\/FilBot3\/Genesys-for-FoundryVTT#readme"$/;"	s
+hullTrauma	template.json	/^			"hullTrauma": {$/;"	o	object:Actor.vehicle
+initiative	module/simple.js	/^	CONFIG.Combat.initiative = {$/;"	c	class:CONFIG.Combat
+injuries	template.json	/^			"injuries": {},$/;"	o	object:Actor.character
+injury	template.json	/^		"injury": {$/;"	o	object:Item
+inkscape	resources/ability.svg	/^   sodipodi:docname="ability.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/bar.svg	/^   sodipodi:docname="bar.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/boost.svg	/^   sodipodi:docname="boost.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/challenge.svg	/^   sodipodi:docname="challenge.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/condition.svg	/^   sodipodi:docname="condition.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/difficulty.svg	/^   sodipodi:docname="difficulty.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/gear.svg	/^   sodipodi:docname="gear.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/injury.svg	/^   sodipodi:docname="injury.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/proficiency.svg	/^   sodipodi:docname="proficiency.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/setback.svg	/^   sodipodi:docname="setback.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/shield.svg	/^   sodipodi:docname="shield.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/split_stats.svg	/^   sodipodi:docname="drawing.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/sword.svg	/^   sodipodi:docname="sword.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/talent.svg	/^   sodipodi:docname="talent.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/triumph_black.svg	/^   sodipodi:docname="triumph_black.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+inkscape	resources/triumph_white.svg	/^   sodipodi:docname="triumph_white.svg">$/;"	n	uri:http://www.inkscape.org/namespaces/inkscape
+input[type="number"]	styles/simple.css	/^input[type="number"] {$/;"	s
+input[type=number] ::-webkit-inner-spin-button	styles/simple.css	/^input[type=number]::-webkit-inner-spin-button, $/;"	s
+input[type=number] ::-webkit-outer-spin-button	styles/simple.css	/^input[type=number]::-webkit-outer-spin-button { $/;"	s
+intellect	template.json	/^				"intellect": {$/;"	o	object:Actor.character.characteristics
+keywords	package.json	/^  "keywords": [$/;"	a
+knowledge1	template.json	/^				"knowledge1": {$/;"	o	object:Actor.character.customSkils
+knowledge2	template.json	/^				"knowledge2": {$/;"	o	object:Actor.character.customSkils
+knowledge3	template.json	/^				"knowledge3": {$/;"	o	object:Actor.character.customSkils
+label	styles/simple.css	/^label{$/;"	s
+label	template.json	/^					"label": "Agility",$/;"	s	object:Actor.character.characteristics.agility
+label	template.json	/^					"label": "Alchemy",$/;"	s	object:Actor.character.skills.alchemy
+label	template.json	/^					"label": "Arcana",$/;"	s	object:Actor.character.skills.arcane
+label	template.json	/^					"label": "Armour",$/;"	s	object:Actor.vehicle.statsVec.armor
+label	template.json	/^					"label": "Astrocartography",$/;"	s	object:Actor.character.skills.astrocartography
+label	template.json	/^					"label": "Athletics",$/;"	s	object:Actor.character.skills.athletics
+label	template.json	/^					"label": "Brawl",$/;"	s	object:Actor.character.skills.brawl
+label	template.json	/^					"label": "Brawn",$/;"	s	object:Actor.character.characteristics.brawn
+label	template.json	/^					"label": "Charm",$/;"	s	object:Actor.character.skills.charm
+label	template.json	/^					"label": "Coercion",$/;"	s	object:Actor.character.skills.coercion
+label	template.json	/^					"label": "Complement",$/;"	s	object:Actor.vehicle.statsVec.complement
+label	template.json	/^					"label": "Computers",$/;"	s	object:Actor.character.skills.computers
+label	template.json	/^					"label": "Consumables",$/;"	s	object:Actor.vehicle.statsVec.consumables
+label	template.json	/^					"label": "Control Skill",$/;"	s	object:Actor.vehicle.statsVec.controlSkill
+label	template.json	/^					"label": "Cool",$/;"	s	object:Actor.character.skills.cool
+label	template.json	/^					"label": "Coordination",$/;"	s	object:Actor.character.skills.coordination
+label	template.json	/^					"label": "Cunning",$/;"	s	object:Actor.character.characteristics.cunning
+label	template.json	/^					"label": "Deception",$/;"	s	object:Actor.character.skills.deception
+label	template.json	/^					"label": "Defence",$/;"	s	object:Actor.vehicle.statsVec.defence
+label	template.json	/^					"label": "Discipline",$/;"	s	object:Actor.character.skills.discipline
+label	template.json	/^					"label": "Divine",$/;"	s	object:Actor.character.skills.divine
+label	template.json	/^					"label": "Driving",$/;"	s	object:Actor.character.skills.driving
+label	template.json	/^					"label": "Encumbrance Capacity",$/;"	s	object:Actor.vehicle.statsVec.encumbranceCapacity
+label	template.json	/^					"label": "Gunnery",$/;"	s	object:Actor.character.skills.gunnery
+label	template.json	/^					"label": "Handling",$/;"	s	object:Actor.vehicle.statsVec.handling
+label	template.json	/^					"label": "Intellect",$/;"	s	object:Actor.character.characteristics.intellect
+label	template.json	/^					"label": "Knowledge",$/;"	s	object:Actor.character.skills.Knowledge
+label	template.json	/^					"label": "Leadership",$/;"	s	object:Actor.character.skills.leadership
+label	template.json	/^					"label": "Mechanics",$/;"	s	object:Actor.character.skills.mechanics
+label	template.json	/^					"label": "Medicine",$/;"	s	object:Actor.character.skills.medicine
+label	template.json	/^					"label": "Melee",$/;"	s	object:Actor.character.skills.melee
+label	template.json	/^					"label": "Melee-Heavy",$/;"	s	object:Actor.character.skills.melee-heavy
+label	template.json	/^					"label": "Melee-light",$/;"	s	object:Actor.character.skills.melee-light
+label	template.json	/^					"label": "Negotiation",$/;"	s	object:Actor.character.skills.negotiation
+label	template.json	/^					"label": "Operating",$/;"	s	object:Actor.character.skills.operating
+label	template.json	/^					"label": "Passenger Capacity",$/;"	s	object:Actor.vehicle.statsVec.passengerCapacity
+label	template.json	/^					"label": "Perception",$/;"	s	object:Actor.character.skills.perception
+label	template.json	/^					"label": "Piloting",$/;"	s	object:Actor.character.skills.piloting
+label	template.json	/^					"label": "Presence",$/;"	s	object:Actor.character.characteristics.presence
+label	template.json	/^					"label": "Price",$/;"	s	object:Actor.vehicle.statsVec.price
+label	template.json	/^					"label": "Primal",$/;"	s	object:Actor.character.skills.primal
+label	template.json	/^					"label": "Ranged",$/;"	s	object:Actor.character.skills.ranged
+label	template.json	/^					"label": "Ranged-Heavy",$/;"	s	object:Actor.character.skills.ranged-heavy
+label	template.json	/^					"label": "Ranged-Light",$/;"	s	object:Actor.character.skills.ranged-light
+label	template.json	/^					"label": "Rarity",$/;"	s	object:Actor.vehicle.statsVec.rarity
+label	template.json	/^					"label": "Resilience",$/;"	s	object:Actor.character.skills.resilience
+label	template.json	/^					"label": "Riding",$/;"	s	object:Actor.character.skills.riding
+label	template.json	/^					"label": "Shilloutte",$/;"	s	object:Actor.vehicle.statsVec.shilloutte
+label	template.json	/^					"label": "Skulduggery",$/;"	s	object:Actor.character.skills.skulduggery
+label	template.json	/^					"label": "Speed",$/;"	s	object:Actor.vehicle.statsVec.speed
+label	template.json	/^					"label": "Stealth",$/;"	s	object:Actor.character.skills.stealh
+label	template.json	/^					"label": "Streetwise",$/;"	s	object:Actor.character.skills.streetwise
+label	template.json	/^					"label": "Survival",$/;"	s	object:Actor.character.skills.survival
+label	template.json	/^					"label": "Vigilance",$/;"	s	object:Actor.character.skills.vigilance
+label	template.json	/^					"label": "Willpower",$/;"	s	object:Actor.character.characteristics.willpower
+label	template.json	/^					"label": "custom1",$/;"	s	object:Actor.character.customSkils.custom1
+label	template.json	/^					"label": "custom2",$/;"	s	object:Actor.character.customSkils.custom2
+label	template.json	/^					"label": "custom3",$/;"	s	object:Actor.character.customSkils.custom3
+label	template.json	/^					"label": "custom4",$/;"	s	object:Actor.character.customSkils.custom4
+label	template.json	/^					"label": "knowledge1",$/;"	s	object:Actor.character.customSkils.knowledge1
+label	template.json	/^					"label": "knowledge2",$/;"	s	object:Actor.character.customSkils.knowledge2
+label	template.json	/^					"label": "knowledge3",$/;"	s	object:Actor.character.customSkils.knowledge3
+label	template.json	/^				"label": "Hull Trauma",$/;"	s	object:Actor.vehicle.hullTrauma
+label	template.json	/^				"label": "System Strain",$/;"	s	object:Actor.vehicle.systemStrain
+languages	system.json	/^  "languages": [],$/;"	a
+layer1	resources/ability.svg	/^     id="layer1">$/;"	i
+layer1	resources/arrow_left.svg	/^     id="layer1">$/;"	i
+layer1	resources/arrow_right.svg	/^     id="layer1">$/;"	i
+layer1	resources/bar.svg	/^     id="layer1">$/;"	i
+layer1	resources/boost.svg	/^     id="layer1">$/;"	i
+layer1	resources/challenge.svg	/^     id="layer1">$/;"	i
+layer1	resources/condition.svg	/^     transform="translate(0,-161.5333)">$/;"	i
+layer1	resources/difficulty.svg	/^     id="layer1">$/;"	i
+layer1	resources/gear.svg	/^     id="layer1">$/;"	i
+layer1	resources/injury.svg	/^     id="layer1">$/;"	i
+layer1	resources/proficiency.svg	/^     id="layer1">$/;"	i
+layer1	resources/setback.svg	/^     id="layer1">$/;"	i
+layer1	resources/shield.svg	/^     id="layer1">$/;"	i
+layer1	resources/split_stats.svg	/^     id="layer1">$/;"	i
+layer1	resources/sword.svg	/^     id="layer1">$/;"	i
+layer1	resources/talent.svg	/^     id="layer1">$/;"	i
+layer1	resources/triumph_black.svg	/^     style="display:inline">$/;"	i
+layer1	resources/triumph_white.svg	/^     style="display:inline">$/;"	i
+layer2	resources/condition.svg	/^     style="display:none">$/;"	i
+layer2	resources/triumph_black.svg	/^     inkscape:label="Paths" \/>$/;"	i
+layer2	resources/triumph_white.svg	/^     inkscape:label="Paths" \/>$/;"	i
+leadership	template.json	/^				"leadership": {$/;"	o	object:Actor.character.skills
+license	package.json	/^  "license": "GPL-3.0",$/;"	s
+license	system.json	/^  "license": "LICENSE.txt"$/;"	s
+linearGradient2849	resources/arrow_left.svg	/^       osb:paint="solid">$/;"	d
+linearGradient2849	resources/arrow_left.svg	/^       osb:paint="solid">$/;"	i
+linearGradient2849	resources/arrow_right.svg	/^       osb:paint="solid">$/;"	d
+linearGradient2849	resources/arrow_right.svg	/^       osb:paint="solid">$/;"	i
+linearGradient2865-3	resources/arrow_left.svg	/^       id="linearGradient2865-3">$/;"	d
+linearGradient2865-3	resources/arrow_left.svg	/^       id="linearGradient2865-3">$/;"	i
+linearGradient2865-3	resources/arrow_right.svg	/^       id="linearGradient2865-3">$/;"	d
+linearGradient2865-3	resources/arrow_right.svg	/^       id="linearGradient2865-3">$/;"	i
+linearGradient2867	resources/arrow_left.svg	/^       gradientTransform="translate(-317.26309)" \/>$/;"	d
+linearGradient2867	resources/arrow_left.svg	/^       gradientTransform="translate(-317.26309)" \/>$/;"	i
+linearGradient2867	resources/arrow_right.svg	/^       gradientUnits="userSpaceOnUse" \/>$/;"	d
+linearGradient2867	resources/arrow_right.svg	/^       gradientUnits="userSpaceOnUse" \/>$/;"	i
+longCharacteristic	template.json	/^					"longCharacteristic": "",$/;"	s	object:Actor.character.customSkils.custom1
+longCharacteristic	template.json	/^					"longCharacteristic": "",$/;"	s	object:Actor.character.customSkils.custom2
+longCharacteristic	template.json	/^					"longCharacteristic": "",$/;"	s	object:Actor.character.customSkils.custom3
+longCharacteristic	template.json	/^					"longCharacteristic": "",$/;"	s	object:Actor.character.customSkils.custom4
+longCharacteristic	template.json	/^					"longCharacteristic": "agility",$/;"	s	object:Actor.character.skills.coordination
+longCharacteristic	template.json	/^					"longCharacteristic": "brawn",$/;"	s	object:Actor.character.skills.athletics
+longCharacteristic	template.json	/^					"longCharacteristic": "brawn",$/;"	s	object:Actor.character.skills.brawl
+longCharacteristic	template.json	/^					"longCharacteristic": "brawn",$/;"	s	object:Actor.character.skills.melee
+longCharacteristic	template.json	/^					"longCharacteristic": "brawn",$/;"	s	object:Actor.character.skills.melee-heavy
+longCharacteristic	template.json	/^					"longCharacteristic": "brawn",$/;"	s	object:Actor.character.skills.melee-light
+longCharacteristic	template.json	/^					"longCharacteristic": "brawn",$/;"	s	object:Actor.character.skills.resilience
+longCharacteristic	template.json	/^					"longCharacteristic": "cunning",$/;"	s	object:Actor.character.skills.deception
+longCharacteristic	template.json	/^					"longCharacteristic": "cunning",$/;"	s	object:Actor.character.skills.primal
+longCharacteristic	template.json	/^					"longCharacteristic": "cunning",$/;"	s	object:Actor.character.skills.skulduggery
+longCharacteristic	template.json	/^					"longCharacteristic": "cunning",$/;"	s	object:Actor.character.skills.streetwise
+longCharacteristic	template.json	/^					"longCharacteristic": "cunning",$/;"	s	object:Actor.character.skills.survival
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.customSkils.knowledge1
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.customSkils.knowledge2
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.customSkils.knowledge3
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.skills.Knowledge
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.skills.alchemy
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.skills.arcane
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.skills.astrocartography
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.skills.computers
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.skills.mechanics
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.skills.medicine
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.skills.operating
+longCharacteristic	template.json	/^					"longCharacteristic": "intellect",$/;"	s	object:Actor.character.skills.perception
+longCharacteristic	template.json	/^					"longCharacteristic": "presence",$/;"	s	object:Actor.character.skills.charm
+longCharacteristic	template.json	/^					"longCharacteristic": "presence",$/;"	s	object:Actor.character.skills.cool
+longCharacteristic	template.json	/^					"longCharacteristic": "presence",$/;"	s	object:Actor.character.skills.leadership
+longCharacteristic	template.json	/^					"longCharacteristic": "presence",$/;"	s	object:Actor.character.skills.negotiation
+longCharacteristic	template.json	/^					"longCharacteristic": "willpower",$/;"	s	object:Actor.character.skills.coercion
+longCharacteristic	template.json	/^					"longCharacteristic": "willpower",$/;"	s	object:Actor.character.skills.discipline
+longCharacteristic	template.json	/^					"longCharacteristic": "willpower",$/;"	s	object:Actor.character.skills.divine
+longCharacteristic	template.json	/^					"longCharacteristic": "willpower",$/;"	s	object:Actor.character.skills.vigilance
+main	package.json	/^  "main": "module\/simple.js",$/;"	s
+manifest	system.json	/^  "manifest": "https:\/\/raw.githubusercontent.com\/ceedd\/Genesys-for-FoundryVTT\/release-v0.2\//;"	s
+max	template.json	/^					"max": 10$/;"	n	object:Actor.character.stats.wounds
+max	template.json	/^					"max": 5$/;"	n	object:Actor.character.stats.strain
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.customSkils.custom1
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.customSkils.custom2
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.customSkils.custom3
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.customSkils.custom4
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.customSkils.knowledge1
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.customSkils.knowledge2
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.customSkils.knowledge3
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.Knowledge
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.alchemy
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.arcane
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.astrocartography
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.athletics
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.brawl
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.charm
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.coercion
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.computers
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.cool
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.coordination
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.deception
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.discipline
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.divine
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.driving
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.gunnery
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.leadership
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.mechanics
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.medicine
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.melee
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.melee-heavy
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.melee-light
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.negotiation
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.operating
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.perception
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.piloting
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.primal
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.ranged
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.ranged-heavy
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.ranged-light
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.resilience
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.riding
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.skulduggery
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.stealh
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.streetwise
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.survival
+max	template.json	/^					"max": 5,$/;"	n	object:Actor.character.skills.vigilance
+mechanics	template.json	/^				"mechanics": {$/;"	o	object:Actor.character.skills
+medicine	template.json	/^				"medicine": {$/;"	o	object:Actor.character.skills
+melee	template.json	/^					"melee": 0$/;"	n	object:Actor.character.stats.defence
+melee	template.json	/^				"melee": {$/;"	o	object:Actor.character.skills
+melee-heavy	template.json	/^				"melee-heavy": {$/;"	o	object:Actor.character.skills
+melee-light	template.json	/^				"melee-light": {$/;"	o	object:Actor.character.skills
+metadata1369	resources/shield.svg	/^     id="metadata1369">$/;"	i
+metadata1448	resources/triumph_black.svg	/^     id="metadata1448">$/;"	i
+metadata1448	resources/triumph_white.svg	/^     id="metadata1448">$/;"	i
+metadata1962	resources/sword.svg	/^     id="metadata1962">$/;"	i
+metadata2551	resources/injury.svg	/^     id="metadata2551">$/;"	i
+metadata3210	resources/talent.svg	/^     id="metadata3210">$/;"	i
+metadata3784	resources/gear.svg	/^     id="metadata3784">$/;"	i
+metadata5	resources/condition.svg	/^     id="metadata5">$/;"	i
+metadata818	resources/arrow_left.svg	/^     id="metadata818">$/;"	i
+metadata818	resources/arrow_right.svg	/^     id="metadata818">$/;"	i
+metadata818	resources/bar.svg	/^     id="metadata818">$/;"	i
+metadata818	resources/boost.svg	/^     id="metadata818">$/;"	i
+metadata818	resources/setback.svg	/^     id="metadata818">$/;"	i
+metadata818	resources/split_stats.svg	/^     id="metadata818">$/;"	i
+metadata819	resources/ability.svg	/^     id="metadata819">$/;"	i
+metadata819	resources/challenge.svg	/^     id="metadata819">$/;"	i
+metadata819	resources/difficulty.svg	/^     id="metadata819">$/;"	i
+metadata819	resources/proficiency.svg	/^     id="metadata819">$/;"	i
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.customSkils.custom1
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.customSkils.custom2
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.customSkils.custom3
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.customSkils.custom4
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.customSkils.knowledge1
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.customSkils.knowledge2
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.customSkils.knowledge3
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.Knowledge
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.alchemy
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.arcane
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.astrocartography
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.athletics
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.brawl
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.charm
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.coercion
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.computers
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.cool
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.coordination
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.deception
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.discipline
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.divine
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.driving
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.gunnery
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.leadership
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.mechanics
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.medicine
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.melee
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.melee-heavy
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.melee-light
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.negotiation
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.operating
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.perception
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.piloting
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.primal
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.ranged
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.ranged-heavy
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.ranged-light
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.resilience
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.riding
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.skulduggery
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.stealh
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.streetwise
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.survival
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.skills.vigilance
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.stats.strain
+min	template.json	/^					"min": 0,$/;"	n	object:Actor.character.stats.wounds
+minimumCoreVersion	system.json	/^  "minimumCoreVersion": "0.5.7",$/;"	s
+modifier	template.json	/^					"modifier": []$/;"	a	object:Actor.character.characteristics.agility
+modifier	template.json	/^					"modifier": []$/;"	a	object:Actor.character.characteristics.brawn
+modifier	template.json	/^					"modifier": []$/;"	a	object:Actor.character.characteristics.cunning
+modifier	template.json	/^					"modifier": []$/;"	a	object:Actor.character.characteristics.intellect
+modifier	template.json	/^					"modifier": []$/;"	a	object:Actor.character.characteristics.presence
+modifier	template.json	/^					"modifier": []$/;"	a	object:Actor.character.characteristics.willpower
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.customSkils.custom1
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.customSkils.custom2
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.customSkils.custom3
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.customSkils.custom4
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.customSkils.knowledge1
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.customSkils.knowledge2
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.customSkils.knowledge3
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.Knowledge
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.alchemy
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.arcane
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.astrocartography
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.athletics
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.brawl
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.charm
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.coercion
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.computers
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.cool
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.coordination
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.deception
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.discipline
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.divine
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.driving
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.gunnery
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.leadership
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.mechanics
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.medicine
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.melee
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.melee-heavy
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.melee-light
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.negotiation
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.operating
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.perception
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.piloting
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.primal
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.ranged
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.ranged-heavy
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.ranged-light
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.resilience
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.riding
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.skulduggery
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.stealh
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.streetwise
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.survival
+modifier	template.json	/^					"modifier": [],$/;"	a	object:Actor.character.skills.vigilance
+money	template.json	/^			"money": 0,$/;"	n	object:Actor.character
+name	package.json	/^  "name": "genesys-for-foundryvtt",$/;"	s
+name	system.json	/^  "name": "genesys",$/;"	s
+name	template.json	/^				"name": "",$/;"	s	object:Actor.character.heroicAbility
+name	template.json	/^			"name": "",$/;"	s	object:Item.injury
+name	template.json	/^			"name": "",$/;"	s	object:Item.talent
+negotiation	template.json	/^				"negotiation": {$/;"	o	object:Actor.character.skills
+notable	template.json	/^				"notable": ""$/;"	s	object:Actor.character.description
+notes	template.json	/^			"notes": "",$/;"	s	object:Actor.character
+ns0b3423020101	resources/bar.svg	/^   sodipodi:docname="bar.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns1feb8dac0101	resources/gear.svg	/^   sodipodi:docname="gear.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns2f92c7280101	resources/proficiency.svg	/^   sodipodi:docname="proficiency.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns332795020101	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns39d556b50101	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns3ad58c4a0101	resources/setback.svg	/^   sodipodi:docname="setback.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns426ed9400101	resources/difficulty.svg	/^   sodipodi:docname="difficulty.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns4e52acd40101	resources/boost.svg	/^   sodipodi:docname="boost.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns5fbc89460101	resources/shield.svg	/^   sodipodi:docname="shield.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns692e243c0101	resources/sword.svg	/^   sodipodi:docname="sword.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns6a7835900101	resources/challenge.svg	/^   sodipodi:docname="challenge.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns734f86740101	resources/condition.svg	/^   sodipodi:docname="condition.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns880a39720101	resources/triumph_black.svg	/^   sodipodi:docname="triumph_black.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns95b50b270101	resources/split_stats.svg	/^   sodipodi:docname="drawing.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+ns97e17fdb0101	resources/ability.svg	/^   sodipodi:docname="ability.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+nsbd9e1b4e0101	resources/injury.svg	/^   sodipodi:docname="injury.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+nsf44530b60101	resources/triumph_white.svg	/^   sodipodi:docname="triumph_white.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+nsfef15b550101	resources/talent.svg	/^   sodipodi:docname="talent.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+object	module/genesysUtil.js	/^        var object = {$/;"	c	class:genesysUtil.abilityToObject
+operating	template.json	/^				"operating": {$/;"	o	object:Actor.character.skills
+origin	template.json	/^				"origin": "",$/;"	s	object:Actor.character.heroicAbility
+osb	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.openswatchbook.org/uri/2009/osb
+osb	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.openswatchbook.org/uri/2009/osb
+packs	system.json	/^  "packs": [],$/;"	a
+page	template.json	/^			"page": 0$/;"	n	object:Item.talent
+passengerCapacity	template.json	/^				"passengerCapacity": {$/;"	o	object:Actor.vehicle.statsVec
+path1371	resources/arrow_left.svg	/^       transform="scale(-1,1)" \/>$/;"	i
+path1371	resources/arrow_right.svg	/^       inkscape:transform-center-x="-40.948963" \/>$/;"	i
+path1377	resources/ability.svg	/^       transform="matrix(0.79757833,0,0,0.99697494,30.363165,0.45356134)" \/>$/;"	i
+path1377	resources/difficulty.svg	/^       transform="matrix(0.79757833,0,0,0.99697494,30.363165,0.45356134)" \/>$/;"	i
+path1382	resources/bar.svg	/^       sodipodi:nodetypes="sscscssssscsccsssscsccccscsccccccccscsscsssscccscscscsssccccssssscsss/;"	i
+path1457	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1459	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1461	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1463	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1465	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1467	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1469	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1471	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1473	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1475	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1477	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1479	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1481	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1483	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1485	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1487	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1489	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1491	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1493	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1495	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1497	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1499	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1501	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1503	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1505	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1507	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1509	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1511	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1513	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path1515	resources/split_stats.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2018	resources/triumph_black.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2018	resources/triumph_white.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2020	resources/triumph_black.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2020	resources/triumph_white.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2022	resources/triumph_black.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2022	resources/triumph_white.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2024	resources/triumph_black.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2024	resources/triumph_white.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2026	resources/triumph_black.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2026	resources/triumph_white.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2028	resources/triumph_black.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2028	resources/triumph_white.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2030	resources/triumph_black.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2030	resources/triumph_white.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2032	resources/triumph_black.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path2032	resources/triumph_white.svg	/^         inkscape:connector-curvature="0" \/>$/;"	i
+path3202	resources/injury.svg	/^       sodipodi:nodetypes="ssscs" \/>$/;"	i
+path3205	resources/injury.svg	/^       sodipodi:nodetypes="cc" \/>$/;"	i
+path3763	resources/talent.svg	/^       transform="matrix(0.77917857,-0.04285076,0.04088608,0.81661998,31.911108,66.35708)" \/>$/;"	i
+path4339	resources/gear.svg	/^         style="opacity:1;fill:none;fill-opacity:0.00367647;stroke:#8b362c;stroke-width:7.284916/;"	i
+path4527	resources/condition.svg	/^         style="fill:#ffffff;fill-opacity:0.93014705;stroke:#ffffff;stroke-width:1.2322799;strok/;"	i
+path5078	resources/challenge.svg	/^       transform="matrix(0.69140711,0,0,0.74238508,36.905245,1.5212306)" \/>$/;"	i
+path5078	resources/proficiency.svg	/^       transform="matrix(0.69140711,0,0,0.74238508,36.905245,1.5212306)" \/>$/;"	i
+perception	template.json	/^				"perception": {$/;"	o	object:Actor.character.skills
+piloting	template.json	/^				"piloting": {$/;"	o	object:Actor.character.skills
+playername	template.json	/^				"playername": ""$/;"	s	object:Actor.character.basic
+presence	template.json	/^				"presence": {$/;"	o	object:Actor.character.characteristics
+price	template.json	/^				"price": {$/;"	o	object:Actor.vehicle.statsVec
+price	template.json	/^			"price": 0,$/;"	n	object:Item.armor
+price	template.json	/^			"price": 0,$/;"	n	object:Item.gear
+price	template.json	/^			"price": 0,$/;"	n	object:Item.weapon
+primal	template.json	/^				"primal": {$/;"	o	object:Actor.character.skills
+primaryEffect	template.json	/^				"primaryEffect": "",$/;"	s	object:Actor.character.heroicAbility
+primaryTokenAttribute	system.json	/^  "primaryTokenAttribute": "wounds",$/;"	s
+proficency	module/dicePopout.js	/^      proficency: this.array[2],$/;"	p	class:dicePopout.getData.data
+proficency	module/genesysUtil.js	/^            proficency: yellow,$/;"	p	class:genesysUtil.abilityToObject.object
+proficiency	templates/dicePopout.html	/^                    <div class="flex-col"><input type="number" class="proficiency" id="proficien/;"	I
+range	template.json	/^			"range": "",$/;"	s	object:Item.weapon
+ranged	template.json	/^					"ranged": 0,$/;"	n	object:Actor.character.stats.defence
+ranged	template.json	/^				"ranged": {$/;"	o	object:Actor.character.skills
+ranged-heavy	template.json	/^				"ranged-heavy": {$/;"	o	object:Actor.character.skills
+ranged-light	template.json	/^				"ranged-light": {$/;"	o	object:Actor.character.skills
+rarity	template.json	/^				"rarity": {$/;"	o	object:Actor.vehicle.statsVec
+rarity	template.json	/^			"rarity": 0,$/;"	n	object:Item.armor
+rarity	template.json	/^			"rarity": 0,$/;"	n	object:Item.gear
+rarity	template.json	/^			"rarity": 0,$/;"	n	object:Item.weapon
+rdf	resources/ability.svg	/^   sodipodi:docname="ability.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/bar.svg	/^   sodipodi:docname="bar.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/boost.svg	/^   sodipodi:docname="boost.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/challenge.svg	/^   sodipodi:docname="challenge.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/condition.svg	/^   sodipodi:docname="condition.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/difficulty.svg	/^   sodipodi:docname="difficulty.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/gear.svg	/^   sodipodi:docname="gear.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/injury.svg	/^   sodipodi:docname="injury.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/proficiency.svg	/^   sodipodi:docname="proficiency.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/setback.svg	/^   sodipodi:docname="setback.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/shield.svg	/^   sodipodi:docname="shield.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/split_stats.svg	/^   sodipodi:docname="drawing.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/sword.svg	/^   sodipodi:docname="sword.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/talent.svg	/^   sodipodi:docname="talent.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/triumph_black.svg	/^   sodipodi:docname="triumph_black.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rdf	resources/triumph_white.svg	/^   sodipodi:docname="triumph_white.svg">$/;"	n	uri:http://www.w3.org/1999/02/22-rdf-syntax-ns#
+rect1371	resources/boost.svg	/^       y="5.0000005" \/>$/;"	i
+rect1371	resources/setback.svg	/^       y="5.0000005" \/>$/;"	i
+rect1922	resources/shield.svg	/^       inkscape:connector-curvature="0" \/>$/;"	i
+rect2515	resources/sword.svg	/^       inkscape:connector-curvature="0" \/>$/;"	i
+rect4337	resources/gear.svg	/^         style="opacity:1;fill:none;fill-opacity:0.00367647;stroke:#8b362c;stroke-width:7.284916/;"	i
+rect4520	resources/condition.svg	/^       sodipodi:nodetypes="ccccc" \/>$/;"	i
+rect5371	resources/condition.svg	/^       y="109.10949" \/>$/;"	i
+repository	package.json	/^  "repository": {$/;"	o
+resilience	template.json	/^				"resilience": {$/;"	o	object:Actor.character.skills
+riding	template.json	/^				"riding": {$/;"	o	object:Actor.character.skills
+scripts	package.json	/^  "scripts": {$/;"	o
+secondaryTokenAttribute	system.json	/^  "secondaryTokenAttribute": "stress",$/;"	s
+setPosition	module/item-sheet.js	/^    setPosition(options = {}) {$/;"	m	class:SimpleItemSheet
+setPosition	module/vehicle-sheet.js	/^    setPosition(options={}) {$/;"	m	class:VehicleActorSheet
+setback	module/dicePopout.js	/^      setback: this.array[3],$/;"	p	class:dicePopout.getData.data
+setback	module/genesysUtil.js	/^            setback: 0,$/;"	p	class:genesysUtil.abilityToObject.object
+setback	templates/dicePopout.html	/^                    <div class="flex-col"><input type="number" class="setback" id="setback" min=/;"	I
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.customSkils.custom1
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.customSkils.custom2
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.customSkils.custom3
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.customSkils.custom4
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.customSkils.knowledge1
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.customSkils.knowledge2
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.customSkils.knowledge3
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.Knowledge
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.alchemy
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.arcane
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.astrocartography
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.athletics
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.brawl
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.charm
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.coercion
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.computers
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.cool
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.coordination
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.deception
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.discipline
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.divine
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.driving
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.gunnery
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.leadership
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.mechanics
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.medicine
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.melee
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.melee-heavy
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.melee-light
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.negotiation
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.operating
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.perception
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.piloting
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.primal
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.ranged
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.ranged-heavy
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.ranged-light
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.resilience
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.riding
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.skulduggery
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.stealh
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.streetwise
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.survival
+setting	template.json	/^					"setting": false,$/;"	b	object:Actor.character.skills.vigilance
+severity	template.json	/^			"severity": 0,$/;"	n	object:Item.injury
+shilloutte	template.json	/^				"shilloutte": {$/;"	o	object:Actor.vehicle.statsVec
+skill	template.json	/^			"skill": "",$/;"	s	object:Item.weapon
+skills	template.json	/^			"skills": {$/;"	o	object:Actor.character
+skulduggery	template.json	/^				"skulduggery": {$/;"	o	object:Actor.character.skills
+soak	template.json	/^				"soak": {$/;"	o	object:Actor.character.stats
+soak	template.json	/^			"soak": 0,$/;"	n	object:Item.armor
+sodipodi	resources/ability.svg	/^   sodipodi:docname="ability.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/bar.svg	/^   sodipodi:docname="bar.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/boost.svg	/^   sodipodi:docname="boost.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/challenge.svg	/^   sodipodi:docname="challenge.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/condition.svg	/^   sodipodi:docname="condition.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/difficulty.svg	/^   sodipodi:docname="difficulty.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/gear.svg	/^   sodipodi:docname="gear.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/injury.svg	/^   sodipodi:docname="injury.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/proficiency.svg	/^   sodipodi:docname="proficiency.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/setback.svg	/^   sodipodi:docname="setback.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/shield.svg	/^   sodipodi:docname="shield.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/split_stats.svg	/^   sodipodi:docname="drawing.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/sword.svg	/^   sodipodi:docname="sword.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/talent.svg	/^   sodipodi:docname="talent.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/triumph_black.svg	/^   sodipodi:docname="triumph_black.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+sodipodi	resources/triumph_white.svg	/^   sodipodi:docname="triumph_white.svg">$/;"	n	uri:http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd
+special	template.json	/^			"special": "",$/;"	s	object:Item.weapon
+speciesArchtype	template.json	/^				"speciesArchtype": "",$/;"	s	object:Actor.character.basic
+speed	template.json	/^				"speed": {$/;"	o	object:Actor.vehicle.statsVec
+stats	template.json	/^			"stats": {$/;"	o	object:Actor.character
+statsVec	template.json	/^			"statsVec": {$/;"	o	object:Actor.vehicle
+stealh	template.json	/^				"stealh": {$/;"	o	object:Actor.character.skills
+stop2847	resources/arrow_left.svg	/^         id="stop2847" \/>$/;"	i
+stop2847	resources/arrow_right.svg	/^         id="stop2847" \/>$/;"	i
+stop2861	resources/arrow_left.svg	/^         id="stop2861" \/>$/;"	i
+stop2861	resources/arrow_right.svg	/^         id="stop2861" \/>$/;"	i
+stop2863	resources/arrow_left.svg	/^         id="stop2863" \/>$/;"	i
+stop2863	resources/arrow_right.svg	/^         id="stop2863" \/>$/;"	i
+strain	template.json	/^				"strain": {$/;"	o	object:Actor.character.stats
+streetwise	template.json	/^				"streetwise": {$/;"	o	object:Actor.character.skills
+styles	system.json	/^  "styles": ["styles\/simple.css","styles\/items.css"],$/;"	a
+survival	template.json	/^				"survival": {$/;"	o	object:Actor.character.skills
+svg	resources/ability.svg	/^   sodipodi:docname="ability.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/bar.svg	/^   sodipodi:docname="bar.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/boost.svg	/^   sodipodi:docname="boost.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/challenge.svg	/^   sodipodi:docname="challenge.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/condition.svg	/^   sodipodi:docname="condition.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/difficulty.svg	/^   sodipodi:docname="difficulty.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/gear.svg	/^   sodipodi:docname="gear.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/injury.svg	/^   sodipodi:docname="injury.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/proficiency.svg	/^   sodipodi:docname="proficiency.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/setback.svg	/^   sodipodi:docname="setback.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/shield.svg	/^   sodipodi:docname="shield.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/split_stats.svg	/^   sodipodi:docname="drawing.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/sword.svg	/^   sodipodi:docname="sword.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/talent.svg	/^   sodipodi:docname="talent.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/triumph_black.svg	/^   sodipodi:docname="triumph_black.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg	resources/triumph_white.svg	/^   sodipodi:docname="triumph_white.svg">$/;"	n	uri:http://www.w3.org/2000/svg
+svg8	resources/condition.svg	/^   sodipodi:docname="condition.svg">$/;"	i
+systemStrain	template.json	/^			"systemStrain": {$/;"	o	object:Actor.vehicle
+talent	template.json	/^		"talent": {$/;"	o	object:Item
+talents	template.json	/^			"talents": {}$/;"	o	object:Actor.character
+template	module/item-sheet.js	/^    get template() {$/;"	G	class:SimpleItemSheet
+templateVersion	system.json	/^  "templateVersion": 2,$/;"	n
+test	package.json	/^    "test": "echo \\"Error: no test specified\\" && exit 1"$/;"	s	object:scripts
+threshold	template.json	/^				"threshold": 0$/;"	n	object:Actor.vehicle.hullTrauma
+threshold	template.json	/^				"threshold": 0$/;"	n	object:Actor.vehicle.systemStrain
+tier	template.json	/^			"tier": 0,$/;"	n	object:Item.talent
+title	module/dicePopout.js	/^  get title() {$/;"	G	class:dicePopout
+title	system.json	/^  "title": "Genesys",$/;"	s
+totalAp	template.json	/^				"totalAp": 0,$/;"	n	object:Actor.character.heroicAbility
+totalExperience	template.json	/^			"totalExperience": 0,$/;"	n	object:Actor.character
+type	package.json	/^    "type": "git",$/;"	s	object:repository
+type	template.json	/^			"type": "",$/;"	s	object:Item.armor
+type	template.json	/^			"type": "",$/;"	s	object:Item.gear
+types	template.json	/^		"types": [$/;"	a	object:Actor
+types	template.json	/^		"types": [$/;"	a	object:Item
+upgrade	template.json	/^				"upgrade": "",$/;"	s	object:Actor.character.heroicAbility
+url	package.json	/^    "url": "git+https:\/\/github.com\/FilBot3\/Genesys-for-FoundryVTT.git"$/;"	s	object:repository
+url	package.json	/^    "url": "https:\/\/github.com\/FilBot3\/Genesys-for-FoundryVTT\/issues"$/;"	s	object:bugs
+url	system.json	/^  "url":"https:\/\/github.com\/ceedd\/Genesys-for-FoundryVTT",$/;"	s
+value	template.json	/^					"value": "1 Pilot"$/;"	s	object:Actor.vehicle.statsVec.complement
+value	template.json	/^					"value": "Riding"$/;"	s	object:Actor.vehicle.statsVec.controlSkill
+value	template.json	/^					"value": 0$/;"	n	object:Actor.character.stats.soak
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.armor
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.consumables
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.defence
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.encumbranceCapacity
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.handling
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.passengerCapacity
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.price
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.rarity
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.shilloutte
+value	template.json	/^					"value": 0$/;"	n	object:Actor.vehicle.statsVec.speed
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.characteristics.agility
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.characteristics.brawn
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.characteristics.cunning
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.characteristics.intellect
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.characteristics.presence
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.characteristics.willpower
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.customSkils.custom1
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.customSkils.custom2
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.customSkils.custom3
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.customSkils.custom4
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.customSkils.knowledge1
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.customSkils.knowledge2
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.customSkils.knowledge3
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.Knowledge
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.alchemy
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.arcane
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.astrocartography
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.athletics
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.brawl
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.charm
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.coercion
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.computers
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.cool
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.coordination
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.deception
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.discipline
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.divine
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.driving
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.gunnery
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.leadership
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.mechanics
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.medicine
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.melee
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.melee-heavy
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.melee-light
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.negotiation
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.operating
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.perception
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.piloting
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.primal
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.ranged
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.ranged-heavy
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.ranged-light
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.resilience
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.riding
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.skulduggery
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.stealh
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.streetwise
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.survival
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.skills.vigilance
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.stats.strain
+value	template.json	/^					"value": 0,$/;"	n	object:Actor.character.stats.wounds
+value	template.json	/^				"value": 0,$/;"	n	object:Actor.vehicle.hullTrauma
+value	template.json	/^				"value": 0,$/;"	n	object:Actor.vehicle.systemStrain
+vehicle	template.json	/^		"vehicle": {$/;"	o	object:Actor
+version	package.json	/^  "version": "0.1.0",$/;"	s
+version	system.json	/^  "version": "0.2.0",$/;"	s
+vigilance	template.json	/^				"vigilance": {$/;"	o	object:Actor.character.skills
+weapon	template.json	/^		"weapon": {$/;"	o	object:Item
+willpower	template.json	/^				"willpower": {$/;"	o	object:Actor.character.characteristics
+wounds	template.json	/^				"wounds": {$/;"	o	object:Actor.character.stats
+xlink	resources/arrow_left.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.w3.org/1999/xlink
+xlink	resources/arrow_right.svg	/^   sodipodi:docname="arrow_right.svg">$/;"	n	uri:http://www.w3.org/1999/xlink
